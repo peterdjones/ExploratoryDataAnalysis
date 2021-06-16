@@ -3,7 +3,7 @@ A collection of EDA notebooks applying Exploratory data analysis to a variety of
 
 These analyses were carried out in Jupyter Notebooks. 
 
-## Notebooks present:
+### Notebooks present:
 
 WeatherAnalysis - A notebook analysing and comparing weather data from two different locations in the UK. 
 
